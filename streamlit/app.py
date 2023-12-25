@@ -105,3 +105,5 @@ with col2:
     2 = Spring
     3 = Summer
     4 = Fall''')
+    
+st.caption('Copyright © Aria Abdurrahman Airlangga')
