@@ -42,8 +42,8 @@ def make_autopct(values):
 
 #load data
 
-bike_sharing_day = pd.read_csv("dataset/day.csv")
-bike_sharing_hour = pd.read_csv("dataset/hour.csv")
+bike_sharing_day = pd.read_csv("day.csv")
+bike_sharing_hour = pd.read_csv("hour.csv")
 
 
 #dataframe prep
